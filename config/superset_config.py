@@ -2,7 +2,7 @@ import os
 
 FEATURE_FLAGS = {
     "ENABLE_TEMPLATE_PROCESSING": True,
-    "ENABLE_PROXY_FIX": True,
+    "DASHBOARD_RBAC": True,
 }
 
 ENABLE_PROXY_FIX = True
